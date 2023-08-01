@@ -1,0 +1,21 @@
+table {
+  font-family: Montserrat, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 20px;
+
+}
+
+th {
+  background-color: #0da287;
+  color: white;
+}
+
+td, th {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
