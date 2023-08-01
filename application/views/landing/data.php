@@ -351,9 +351,23 @@
                                         <h4 class="text-white mb-3">Data Processing</h4>
 
                                         <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, cumque magnam? Sequi, cupiditate quibusdam alias illum sed esse ad dignissimos libero sunt, quisquam numquam aliquam? Voluptas, accusamus omnis?</p>
+                                        <div class="accordion" id="accordionExample">
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                    Geographical
+                                                    </button>
+                                                </h2>
 
+                                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        Topic Listing is free Bootstrap 5 CSS template. <strong>You are not allowed to redistribute this template</strong> on any other template collection website without our permission. Please contact TemplateMo for more detail. Thank you.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                         <div class="icon-holder">
-                                          <i class="bi-search"></i>
+                                          <i class="bi-info-circle"></i>
                                         </div>
                                     </li>
                                     
@@ -362,8 +376,24 @@
 
                                         <p class="text-white">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint animi necessitatibus aperiam repudiandae nam omnis est vel quo, nihil repellat quia velit error modi earum similique odit labore. Doloremque, repudiandae?</p>
 
+                                        <div class="accordion" id="accordionExample">
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsetwo" aria-expanded="true" aria-controls="collapseOne">
+                                                    Geographical
+                                                    </button>
+                                                </h2>
+
+                                                <div id="collapsetwo" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        Topic Listing is free Bootstrap 5 CSS template. <strong>You are not allowed to redistribute this template</strong> on any other template collection website without our permission. Please contact TemplateMo for more detail. Thank you.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
                                         <div class="icon-holder">
-                                          <i class="bi-bookmark"></i>
+                                          <i class="bi-pencil"></i>
                                         </div>
                                     </li>
 
@@ -372,8 +402,24 @@
 
                                         <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi vero quisquam, rem assumenda similique voluptas distinctio, iste est hic eveniet debitis ut ducimus beatae id? Quam culpa deleniti officiis autem?</p>
 
+                                        <div class="accordion" id="accordionExample">
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne">
+                                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsethree" aria-expanded="true" aria-controls="collapseOne">
+                                                    Geographical
+                                                    </button>
+                                                </h2>
+
+                                                <div id="collapsethree" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        Topic Listing is free Bootstrap 5 CSS template. <strong>You are not allowed to redistribute this template</strong> on any other template collection website without our permission. Please contact TemplateMo for more detail. Thank you.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
                                         <div class="icon-holder">
-                                          <i class="bi-book"></i>
+                                          <i class="bi-layers"></i>
                                         </div>
                                     </li>
 
@@ -382,10 +428,11 @@
 
                                         <p class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi vero quisquam, rem assumenda similique voluptas distinctio, iste est hic eveniet debitis ut ducimus beatae id? Quam culpa deleniti officiis autem?</p>
 
+                                        <a href="<?= base_url('landing/map'); ?>" class="btn custom-btn custom-border-btn ms-3">Map</a>
                                         <a href="<?= base_url('landing/map'); ?>" class="btn custom-btn custom-border-btn ms-3">WebGIS</a>
 
                                         <div class="icon-holder">
-                                          <i class="bi-book"></i>
+                                          <i class="bi-globe"></i>
                                         </div>
                                     </li>
                                 </ul>

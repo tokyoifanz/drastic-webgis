@@ -30,7 +30,7 @@
 			</ul>
 
 			<ul role="tablist"> <!-- bottom aligned tabs -->
-				<li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+				<li><a href="<?= base_url('landing/index')?>"><i class="fa-solid fa-house"></i></a></li>
 			</ul>
 		</div>
 

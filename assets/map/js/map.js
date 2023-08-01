@@ -1,6 +1,8 @@
 // Map initialization
 var map = L.map('map').setView([-7.365796, 109.902226], 11);
 
+var centerPoint = [-7.365796, 109.902226];
+
 //=============BASELAYERS============
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
