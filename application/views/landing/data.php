@@ -448,6 +448,7 @@
     <!-- JAVASCRIPT FILES -->
     <?php $this->load->view('partials/vendor-js.php'); ?>
 
+
 </body>
 
 </html>
