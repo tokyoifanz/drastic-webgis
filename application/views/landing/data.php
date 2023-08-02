@@ -104,7 +104,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/water') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
@@ -139,7 +139,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/recharge') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
@@ -174,7 +174,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/aquifer') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
@@ -209,7 +209,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/soil') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
@@ -244,7 +244,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/topography') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
@@ -279,7 +279,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/impact') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
@@ -314,7 +314,7 @@
 
                                                 <div class="custom-block-overlay-text d-flex">
                                                     <div>
-                                                        <h5 class="text-white mb-2">Field Data</h5>
+                                                        <h5 class="text-white mb-2">Maps</h5>
                                                         <a href="<?= base_url('field/hydraulic') ?>" class="btn custom-btn mt-2 mt-lg-3">Access</a>
                                                     </div>
                                                 </div>
